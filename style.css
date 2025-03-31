@@ -20,3 +20,6 @@ form {
     display: flex;
     flex-direction: column;
 }
+#msg{
+    height: 30px;
+}
